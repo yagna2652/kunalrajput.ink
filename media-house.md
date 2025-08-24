@@ -3,6 +3,6 @@ layout: page
 title: Media House
 ---
 
-Creative content:
+Performed Podcasts, created documentaries and written stories by Kunal Rajput
 
 - [YouTube Channel](https://youtube.com/@poppedia)
