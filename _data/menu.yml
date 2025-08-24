@@ -1,0 +1,26 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: Man is nothing else but what he makes of himself.
+  - title: socials
+    url: /socials.html
+  - title: I read my poetry here
+    url: /poetry.html
+  - title: Media House
+    url: /media-house.html
+  - title: Buy My Book Here
+    url: https://amzn.in/d/40WqfG8
+
+  - title: essays
+    post_list:
+      category: essays
+      show_more: true
+      show_more_text: See more essays...
+      show_more_url: archive.html
+  - title: all posts
+    post_list:
+      limit: 0
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
