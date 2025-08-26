@@ -7,12 +7,14 @@ entries:
     url: /socials.html
   - title: I read my poetry here
     entries:
-      - title: YouTube Channel
+      - title: Stage YouTube
         url: https://youtube.com/@stage.channel
-      - title: Instagram Page
+      - title: Stage Instagram
         url: https://www.instagram.com/stage.channel
   - title: Media House
-    url: /media-house.html
+    entries:
+      - title: Performed Podcasts, created documentaries and written stories by Kunal Rajput
+        url: https://youtube.com/@poppedia
   - title: Buy My Book Here
     url: https://amzn.in/d/40WqfG8
 
