@@ -34,11 +34,3 @@ There should be just one category called essays for now, remove work related, de
 Add this image at an appropriate place on the website mostly above Kunal title and not as a background please.
 
 /Users/yagna/Desktop/kunalsinhniwebsite/Image.jpeg  
-
-⸻
-
-👉 In short:
-	•	Socials → personal accounts (Instagram, X, LinkedIn).
-	•	I read my poetry here → poetry performances (YouTube + Instagram).
-	•	Media House → creative/media projects (YouTube).
-	•	CTA Button → buy book (Amazon link).

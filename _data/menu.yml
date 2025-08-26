@@ -6,13 +6,18 @@ entries:
   - title: socials
     url: /socials.html
   - title: I read my poetry here
-    url: /poetry.html
+    entries:
+      - title: YouTube Channel
+        url: https://youtube.com/@stage.channel
+      - title: Instagram Page
+        url: https://www.instagram.com/stage.channel
   - title: Media House
     url: /media-house.html
   - title: Buy My Book Here
     url: https://amzn.in/d/40WqfG8
 
   - title: essays
+    url: https://kunalrajput1806.medium.com/
     post_list:
       category: essays
       show_more: true
