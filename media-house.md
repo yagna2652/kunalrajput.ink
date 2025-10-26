@@ -3,6 +3,6 @@ layout: page
 title: Media House
 ---
 
-Performed Podcasts, created documentaries and written stories by Kunal Rajput
+Performed podcasts, Documentaries, Films and stories written and made by Kunal Rajput.
 
 - [YouTube Channel](https://youtube.com/@poppedia)
