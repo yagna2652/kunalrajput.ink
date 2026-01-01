@@ -13,7 +13,9 @@ entries:
         url: https://www.instagram.com/stage.channel
   - title: Media House
     entries:
-      - title: Performed podcasts, Documentaries, Films and stories written and made by Kunal Rajput.
+      - title: Performed podcasts, Documentaries, Films
+        url: https://youtube.com/@poppedia
+      - title: Stories written and made by Kunal Rajput
         url: https://youtube.com/@poppedia
 
   - title: essays
