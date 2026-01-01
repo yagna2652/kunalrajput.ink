@@ -1,4 +1,5 @@
 ---
 layout: archive
-title: Archive
+title: essays
+which_category: essays
 ---

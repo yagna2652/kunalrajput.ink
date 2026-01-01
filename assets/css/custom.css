@@ -66,6 +66,22 @@ header h1 {
     line-height: 1.2;
 }
 
+/* Style for archive page title (essays) - same as main title */
+.page-content h1 {
+    font-family: "Arapey", serif !important;
+    font-style: italic;
+    letter-spacing: -0.08em;
+    color: black !important;
+    background: none !important;
+    padding: 0 !important;
+    margin: 2rem 0 1rem 0 !important;
+    border-radius: 0 !important;
+    display: block !important;
+    min-width: auto !important;
+    text-align: left !important;
+    line-height: 1.2;
+}
+
 h1::before,
 h1::after,
 h2::before,

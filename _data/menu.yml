@@ -17,18 +17,7 @@ entries:
         url: https://youtube.com/@poppedia
 
   - title: essays
-    url: https://kunalrajput1806.medium.com/
-    post_list:
-      category: essays
-      show_more: true
-      show_more_text: See more essays...
-      show_more_url: archive.html
-  - title: all posts
-    post_list:
-      limit: 0
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+    url: /archive.html
 
   - title: Buy My Book Here
     url: https://amzn.in/d/40WqfG8
