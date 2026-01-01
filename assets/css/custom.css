@@ -198,7 +198,7 @@ li:has(> a[href*="amzn.in"]) {
 
 /* Style for the "Buy My Book Here" CTA button - Bottom right of content */
 a[href*="amzn.in"] {
-    background: #ff6b35 !important;
+    background: #3b82f6 !important;
     color: white !important;
     padding: 12px 24px !important;
     border-radius: 6px !important;
@@ -211,6 +211,6 @@ a[href*="amzn.in"] {
 }
 
 a[href*="amzn.in"]:hover {
-    background: #e55a2b !important;
+    background: #2563eb !important;
     box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15) !important;
 }
