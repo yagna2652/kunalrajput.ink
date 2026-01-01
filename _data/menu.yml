@@ -15,8 +15,6 @@ entries:
     entries:
       - title: Performed podcasts, Documentaries, Films and stories written and made by Kunal Rajput.
         url: https://youtube.com/@poppedia
-  - title: Buy My Book Here
-    url: https://amzn.in/d/40WqfG8
 
   - title: essays
     url: https://kunalrajput1806.medium.com/
@@ -31,3 +29,6 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
+
+  - title: Buy My Book Here
+    url: https://amzn.in/d/40WqfG8
