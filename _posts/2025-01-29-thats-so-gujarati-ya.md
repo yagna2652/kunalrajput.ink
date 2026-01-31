@@ -4,6 +4,17 @@ category: essays
 title: "That's so Gujarati, YA! (Derogatory)"
 ---
 
+<div class="youtube-playlist-thumbnail" style="margin-bottom: 2rem; text-align: center;">
+  <a href="https://www.youtube.com/watch?v=JOprHtHQyow" target="_blank" rel="noopener noreferrer" style="display: inline-block; position: relative; max-width: 480px;">
+    <img src="https://i.ytimg.com/vi/JOprHtHQyow/hqdefault.jpg" alt="Watch: That's so Gujarati, YA!" style="width: 100%; border-radius: 8px; display: block;" />
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 68px; height: 48px; background: rgba(255, 0, 0, 0.8); border-radius: 12px; display: flex; align-items: center; justify-content: center;">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="white">
+        <path d="M8 5v14l11-7z"/>
+      </svg>
+    </div>
+  </a>
+</div>
+
 > "You take delight not in a city's seven or seventy wonders, but in the answer it gives to a question of yours."
 > ― Italo Calvino, *Invisible Cities*
 

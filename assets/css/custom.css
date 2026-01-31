@@ -6,24 +6,24 @@ li,
 a,
 code,
 pre {
-    font-family: "JetBrains Mono", monospace !important;
-    color: #71717a !important; /* Tailwind zinc-500 */
+  font-family: "JetBrains Mono", monospace !important;
+  color: #71717a !important; /* Tailwind zinc-500 */
 }
 
 /* Main site title should be black */
 header h1 {
-    font-family: "Arapey", serif !important;
-    font-style: italic;
-    letter-spacing: -0.08em;
-    color: black !important;
-    background: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    border-radius: 0 !important;
-    display: block !important;
-    min-width: auto !important;
-    text-align: left !important;
-    line-height: 1.2;
+  font-family: "Arapey", serif !important;
+  font-style: italic;
+  letter-spacing: -0.08em;
+  color: black !important;
+  background: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  display: block !important;
+  min-width: auto !important;
+  text-align: left !important;
+  line-height: 1.2;
 }
 
 /* Other headings keep the original styling */
@@ -33,53 +33,53 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Arapey", serif !important;
-    font-style: italic;
-    letter-spacing: -0.08em;
-    background-image: url("/assets/images/Shinkai.png");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    color: white !important;
-    padding: 1rem 1.5rem;
-    margin: 2rem -1.5rem;
-    border-radius: 8px;
-    display: inline-block;
-    min-width: 200px;
-    text-align: center;
-    line-height: 1.2;
+  font-family: "Arapey", serif !important;
+  font-style: italic;
+  letter-spacing: -0.08em;
+  background-image: url("/assets/images/Shinkai.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white !important;
+  padding: 1rem 1.5rem;
+  margin: 2rem -1.5rem;
+  border-radius: 8px;
+  display: inline-block;
+  min-width: 200px;
+  text-align: center;
+  line-height: 1.2;
 }
 
 /* Override for main site title specifically */
 header h1 {
-    font-family: "Arapey", serif !important;
-    font-style: italic;
-    letter-spacing: -0.08em;
-    color: black !important;
-    background: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    border-radius: 0 !important;
-    display: block !important;
-    min-width: auto !important;
-    text-align: left !important;
-    line-height: 1.2;
+  font-family: "Arapey", serif !important;
+  font-style: italic;
+  letter-spacing: -0.08em;
+  color: black !important;
+  background: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  display: block !important;
+  min-width: auto !important;
+  text-align: left !important;
+  line-height: 1.2;
 }
 
 /* Style for archive page title (essays) - same as main title */
 .page-content h1 {
-    font-family: "Arapey", serif !important;
-    font-style: italic;
-    letter-spacing: -0.08em;
-    color: black !important;
-    background: none !important;
-    padding: 0 !important;
-    margin: 2rem 0 1rem 0 !important;
-    border-radius: 0 !important;
-    display: block !important;
-    min-width: auto !important;
-    text-align: left !important;
-    line-height: 1.2;
+  font-family: "Arapey", serif !important;
+  font-style: italic;
+  letter-spacing: -0.08em;
+  color: black !important;
+  background: none !important;
+  padding: 0 !important;
+  margin: 2rem 0 1rem 0 !important;
+  border-radius: 0 !important;
+  display: block !important;
+  min-width: auto !important;
+  text-align: left !important;
+  line-height: 1.2;
 }
 
 h1::before,
@@ -94,23 +94,23 @@ h5::before,
 h5::after,
 h6::before,
 h6::after {
-    content: none !important;
-    display: none !important;
+  content: none !important;
+  display: none !important;
 }
 
 /* Reposition the back link dots */
 body a[href="/"] {
-    position: absolute;
-    top: 1rem;
-    left: 1rem;
-    font-size: 0.8rem;
-    opacity: 0.6;
-    z-index: 10;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  font-size: 0.8rem;
+  opacity: 0.6;
+  z-index: 10;
 }
 
 body,
 html {
-    font-weight: 400;
+  font-weight: 400;
 }
 
 h1,
@@ -119,60 +119,60 @@ h3,
 h4,
 h5,
 h6 {
-    font-weight: 700;
-    margin-top: 2.5rem;
-    margin-bottom: 1.5rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
 }
 
 li {
-    margin-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 ul {
-    margin-bottom: 2.5rem;
+  margin-bottom: 2.5rem;
 }
 
 code,
 pre {
-    font-weight: 500;
+  font-weight: 500;
 }
 
 /* More breathing space for main sections */
 .post-content > ul > li {
-    margin-bottom: 2rem;
+  margin-bottom: 2rem;
 }
 
 /* Add more space between nested items */
 li > ul {
-    margin-top: 1rem;
+  margin-top: 1rem;
 }
 
 /* More space between dates and content */
 li > ul > li {
-    margin-bottom: 0.8rem;
+  margin-bottom: 0.8rem;
 }
 
 /* Force bullets on all list items */
 ul {
-    list-style: disc !important;
-    list-style-type: disc !important;
-    padding-left: 2rem !important;
-    margin-left: 0 !important;
+  list-style: disc !important;
+  list-style-type: disc !important;
+  padding-left: 2rem !important;
+  margin-left: 0 !important;
 }
 
 ul li {
-    list-style: disc !important;
-    list-style-type: disc !important;
-    list-style-position: outside !important;
-    display: list-item !important;
-    margin-left: 0 !important;
+  list-style: disc !important;
+  list-style-type: disc !important;
+  list-style-position: outside !important;
+  display: list-item !important;
+  margin-left: 0 !important;
 }
 
 /* Specifically target first items in lists to ensure they have bullets */
 ul li:first-child {
-    list-style: disc !important;
-    list-style-type: disc !important;
-    display: list-item !important;
+  list-style: disc !important;
+  list-style-type: disc !important;
+  display: list-item !important;
 }
 
 /* Commented out - this was too broad and affected all pages
@@ -184,33 +184,33 @@ body > main > div.w > ul > li:first-child:not(:nth-child(n+2)) {
 
 /* Alternative: only on homepage with header */
 header + ul > li:first-child {
-    list-style: none !important;
-    margin-left: -2rem !important;
+  list-style: none !important;
+  margin-left: -2rem !important;
 }
 
 /* Remove bullet point from "Buy My Book Here" menu item */
 li:has(> a[href*="amzn.in"]) {
-    list-style: none !important;
-    text-align: right !important;
-    margin-top: 3rem !important;
-    width: 100% !important;
+  list-style: none !important;
+  text-align: right !important;
+  margin-top: 3rem !important;
+  width: 100% !important;
 }
 
 /* Style for the "Buy My Book Here" CTA button - Bottom right of content */
 a[href*="amzn.in"] {
-    background: #3b82f6 !important;
-    color: white !important;
-    padding: 12px 24px !important;
-    border-radius: 6px !important;
-    text-decoration: none !important;
-    font-weight: bold !important;
-    display: inline-block !important;
-    transition: background-color 0.3s ease !important;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
-    float: right !important;
+  background: #3b82f6 !important;
+  color: white !important;
+  padding: 12px 24px !important;
+  border-radius: 6px !important;
+  text-decoration: none !important;
+  font-weight: bold !important;
+  display: inline-block !important;
+  transition: background-color 0.3s ease !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+  float: right !important;
 }
 
 a[href*="amzn.in"]:hover {
-    background: #2563eb !important;
-    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15) !important;
+  background: #2563eb !important;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15) !important;
 }
