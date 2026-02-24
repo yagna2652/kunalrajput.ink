@@ -1,7 +1,7 @@
 ---
 layout: post
 category: essays
-title: "No Other Choice"
+title: "There is no other choice"
 ---
 
 There is no other choice.
